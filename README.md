@@ -2,10 +2,11 @@
 
 <h3> I'm Samuel, cybersecurity enthusiast and focused on learning about offensive security and red team. </h3>
 
-- 🏡 &nbsp; I’m from Brazil
+- 🏡 &nbsp; I’m from Brazil.
+- 🎓 &nbsp; Graduated in analysis and systems development. 
 - 🔹 &nbsp; Currently working as a Blue Team | SOC Analyst.
 - 💻 &nbsp; Studying Ethical Hacking (DESEC training course -> https://desecsecurity.com/).
-- ☣️ &nbsp; Studying Recon WEB Hacking | Bug Bounty (OFJAAAH training course -> https://github.com/KingOfBugbounty)
+- ☣️ &nbsp; Studying Recon WEB Hacking | Bug Bounty (OFJAAAH training course -> https://github.com/KingOfBugbounty).
 
 <h2> Skills </h2>
 
