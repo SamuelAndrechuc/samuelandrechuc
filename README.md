@@ -24,5 +24,3 @@
 [![Gmail Badge](https://img.shields.io/badge/-samuelandrechuc@gmail.com-006bed?style=flat-square&logo=Gmail&logoColor=white&link=mailto:samuelandrechuc@gmail.com)](mailto:samuelandrechuc@gmail.com)
 
 <br/>
-
-![Samuel GitHub stats](https://github-readme-stats.vercel.app/api?username=samuelandrechuc&theme=dark&show_icons=true)
