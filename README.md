@@ -1,8 +1,7 @@
 ### Hi there 👋
 
-<h3> I'm Samuel, cybersecurity enthusiast and focused on learning about offensive security and red team. </h3>
+<h3> 22 years old, technology lover and Offensive Security enthusiast, in continuous learning, with focus in Web Pentest, infrastructure Pentest and Red team engagements </h3>
 
-- 🏡 &nbsp; I’m from Brazil.
 - 🎓 &nbsp; Graduated in analysis and systems development. 
 - 🔹 &nbsp; Currently working as a Jr Pentester
 - 💻 &nbsp; Studying Ethical Hacking (DESEC)
