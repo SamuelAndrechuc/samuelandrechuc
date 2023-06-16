@@ -4,16 +4,15 @@
 
 - 🏡 &nbsp; I’m from Brazil.
 - 🎓 &nbsp; Graduated in analysis and systems development. 
-- 🔹 &nbsp; Currently working as a Blue Team | SOC Analyst.
+- 🔹 &nbsp; Currently working as a Jr Pentester
 - 💻 &nbsp; Studying Ethical Hacking (DESEC)
-- ☣️ &nbsp; Studying WEB Hacking/Recon (OFJAAAH and CarlosCrowsec)
+- ☣️ &nbsp; Studying WEB Hacking(CarlosCrowsec)
 
 <h2> Skills </h2>
 
   ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
   ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
   ![PowerShell](https://img.shields.io/badge/PowerShell-%235391FE.svg?style=for-the-badge&logo=powershell&logoColor=white)
-  ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-333333?style=flat&logo=visual-studio-code&logoColor=007ACC)
 
 <br/>
 
