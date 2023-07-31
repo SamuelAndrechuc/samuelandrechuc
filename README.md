@@ -4,16 +4,8 @@
 
 - 🎓 &nbsp; Graduated in analysis and systems development. 
 - 🔹 &nbsp; Currently working as a Jr Pentester
-- 💻 &nbsp; Studying Ethical Hacking (DESEC)
-- ☣️ &nbsp; Studying WEB Hacking(CarlosCrowsec)
-
-<h2> Skills </h2>
-
-  ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
-  ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
-  ![PowerShell](https://img.shields.io/badge/PowerShell-%235391FE.svg?style=for-the-badge&logo=powershell&logoColor=white)
-
-<br/>
+- 💻 &nbsp; WEB Pentest
+- ☣️ &nbsp; Mobile Pentest
 
 <h3> &nbsp;Where to find me: </h3> 
 
