@@ -3,7 +3,7 @@
 <h3> 22 years old, technology lover and Offensive Security enthusiast, in continuous learning, with focus in Web Pentest, Mobile and Red team engagements </h3>
 
 - 🎓 &nbsp; Graduated in analysis and systems development. 
-- 🔹 &nbsp; Currently working as a Jr Pentester
+- 🔹 &nbsp; Currently working as a Pentester
 - 💻 &nbsp; WEB Pentest
 - ☣️ &nbsp; Mobile Pentest
 
